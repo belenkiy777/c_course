@@ -1,0 +1,8 @@
+thisIsVar1
+111
+snake_case
+var2
+Var3
+jefjsdf__
+snake_AND_Camel
+ABCD

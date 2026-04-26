@@ -1,0 +1,8 @@
+thisIsVar1
+111
+snake_case
+camelCase
+var2
+Var3
+var_
+

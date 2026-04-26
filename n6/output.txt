@@ -1,0 +1,10 @@
+this_is_var1
+*error*
+snakeCase
+var2
+*error*
+*error*
+*error*
+*error*
+*error*
+*error*
